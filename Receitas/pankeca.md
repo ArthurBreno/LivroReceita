@@ -1,9 +1,9 @@
-### RECEITA DE PANQUECA .
-###### INGREDIENTES .
-> 1 ovo .
-> uma chicara de farinha de trigo .
-> uma chicara de leite .
-> 2 colheres de açucar .
-> uma pitada de sal .
-###### PREPARO .
-> mistura tudo até ficar homogenio e frita na figideira :) .
+### RECEITA DE PANQUECA
+###### INGREDIENTES
+> Um ovo;<br>
+> Uma chicara de farinha de trigo;<br>
+> Uma chicara de leite;<br>
+> Duas colheres de açucar;<br>
+> Uma pitada de sal.<br>
+###### PREPARO
+> mistura tudo até ficar homogenio e frita na figideira.<br>
